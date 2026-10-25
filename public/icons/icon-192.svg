@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="44" fill="#1A1A1A"/>
+  <circle cx="96" cy="96" r="66" fill="none" stroke="#B39A7B" stroke-width="3"/>
+  <path d="M96 44c12 14 19 30 19 48 0 16-8 30-19 42-11-12-19-26-19-42 0-18 7-34 19-48Z" fill="#B39A7B" opacity=".85"/>
+  <path d="M96 74v70M72 108c8 2 16 8 24 20M120 108c-8 2-16 8-24 20" stroke="#FAF8F5" stroke-width="4" stroke-linecap="round"/>
+  <text x="96" y="158" text-anchor="middle" font-family="serif" font-size="20" fill="#FAF8F5">كسيرات</text>
+</svg>
